@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou Walter Vasconcelos</h1> <p align="left">Este texto está alinhado à esquerda.</p>
+<h1 align="center">Olá, sou Walter Vasconcelos</h1> 
 
 <h3 align="left">CEO da ROI Assessoria de Marketing e Automações, residente em Salvador-Bahia.</h3>
 <p align=""left">Somos uma empresa de prestção de serviços B2B em Marketing Digital, especializada em estratégias digitais, automação de processos IA e gestão de mídia paga. 
